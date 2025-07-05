@@ -26,7 +26,7 @@
   {
     "id": 2,
     "name": "Lungo",
-    "ordered": false,
+    "ordered": true,
     "layers": [
       {
         "color": "#b0dee1",
